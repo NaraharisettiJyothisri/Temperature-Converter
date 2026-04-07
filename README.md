@@ -2,7 +2,7 @@
 
 This is a Java program that converts temperature between Celsius and Fahrenheit.
 
-## Features
+## 🔍Features
 
 - Convert Celsius to Fahrenheit
 - Convert Fahrenheit to Celsius
