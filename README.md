@@ -1,12 +1,13 @@
 # Temperature Converter
 
-This is a Java program that converts temperature between Celsius and Fahrenheit.
+This is a Java program that converts temperature between Celsius and Fahrenheit using user input.
 
-## 🔍Features
+##🔍 Features
 
 - Convert Celsius to Fahrenheit
 - Convert Fahrenheit to Celsius
 - Simple user input
+- Displays converted temperature
 
 ## Technologies Used
 
@@ -19,4 +20,13 @@ This is a Java program that converts temperature between Celsius and Fahrenheit.
 2. Run the program
 3. Enter temperature value
 4. Get converted output
+
+## Example
+
+Input:
+Enter temperature: 25  
+Enter unit: Celsius  
+
+Output:
+77 Fahrenheit
 
